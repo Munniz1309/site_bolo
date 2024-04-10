@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+
+header{
+    h1{
+        
+        color: chocolate;
+    }
+    text-align: center;
+    background-color: cornsilk;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+nav > a{
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+
+}
+
+nav > a:hover {
+    text-decoration: underline; 
+}
+
+main{
+    font-size: larger;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    padding: 0.5px;
+    margin: 10px;    
+}
